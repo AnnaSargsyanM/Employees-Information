@@ -1,17 +1,4 @@
-//****************************************************************************************************
-//     File:               Assignment8.cpp
-// 
-//     Student:            Anna Sargsyan
-// 
-//     Assignment:         Program #8
-// 
-//     Course Name:        Programming II
-// 
-//     Course Number:      COSC 1560-01
-// 
-//     Due:                November 6, 2023
-//
-//     This program reads the employers names from the file and 
+//     This program reads the employees' names from the file and 
 //     organizes them in columns. Additionally, it asks the user whether they want
 //     to add more employees or not.
 //
